@@ -1,24 +1,44 @@
-# ENCRIPTADODETEXTO
-Es una herramienta accesible para encriptar textos de manera segura.
+# ENCRIPTADODETEXTO: ¡Seguridad en un Click!
 
-## Introducción
-Bienvenido my Encriptador de Texto, una aplicación web segura y fácil de usar para encriptar textos. Esta herramienta utiliza algoritmos de encriptación para proteger tus datos e información confidenciales.
+¡Bienvenido a **EncriptadodeTexto**! Nuestra herramienta está diseñada para encriptar tus textos de manera rápida y segura. Protege tu información confidencial con la simplicidad y efectividad que solo **EncriptadodeTexto** puede ofrecer.
 
-## Propósito
-El propósito de este proyecto es proporcionar una herramienta accesible para encriptar textos de manera segura, permitiendo a los usuarios proteger sus datos e información confidencial.
+## 🚀 Introducción
 
-## Características
-* La encriptación de texto es seguro e intuitivo
-* Interfaz de usuario fácil de usar y accesible
-* Compatible con todos los navegadores modernos
+En el mundo digital de hoy, proteger tus datos nunca ha sido tan crucial. **EncriptadodeTexto** es una aplicación web innovadora que utiliza algoritmos avanzados para encriptar tus textos, asegurando que solo tú (y quien tú autorices) pueda acceder a ellos. ¡Olvídate de complicaciones y empieza a proteger tu información con facilidad!
 
-## Uso
-Para utilizar el encriptador de texto, sigue estos pasos:
+## 🎯 Propósito
 
-1. Ingresa el texto que deseas encriptar en el campo de texto.
-2. Haz clic en el botón "Encriptar".
-3. El texto encriptado se mostrará en el campo de texto resultante.
-4. Para Desencriptar copia el texto incriptado en el campo de texto y haz clik en el boton "Desencriptar".
+El propósito de **EncriptadodeTexto** es ofrecer una herramienta accesible y potente para encriptar tus mensajes de forma segura. Queremos que tengas el control total sobre tu información confidencial, garantizando tu privacidad en cada interacción.
 
-## Compatibilidad
-Nuestro encriptador de texto es compatible con todos los navegadores modernos, incluyendo Chrome, Firefox, Safari y Edge.
+## ✨ Características
+
+* **Seguridad Inigualable**: Protege tus datos con algoritmos de encriptación de vanguardia.
+* **Interfaz Intuitiva**: Diseñada para ser simple y fácil de usar para cualquier persona, sin importar su nivel técnico.
+* **Compatibilidad Universal**: Funciona perfectamente en todos los navegadores modernos, incluidos Chrome, Firefox, Safari y Edge.
+* **Experiencia Rápida**: Encripta y desencripta textos en segundos con solo unos clics.
+
+## 🛠️ Uso
+
+¡Empezar a proteger tus textos es fácil! Sigue estos pasos:
+
+1. **Ingresa tu Texto**: Escribe el texto que deseas encriptar en el campo de entrada.
+2. **Haz clic en "Encriptar"**: Obtén tu texto encriptado al instante.
+3. **Desencriptar**: Para revertir el proceso, copia el texto encriptado en el campo correspondiente y haz clic en "Desencriptar".
+4. **¡Listo para Compartir!**: Comparte tu texto encriptado con la certeza de que solo las personas autorizadas pueden leerlo.
+
+## 🌐 Compatibilidad
+
+**EncriptadodeTexto** es tu aliado en todos los navegadores modernos, asegurando una experiencia de usuario consistente y segura en Chrome, Firefox, Safari y Edge. ¡Protege tus textos sin importar dónde estés!
+
+---
+
+¡Esperamos que disfrutes de una experiencia de encriptación fluida y segura con **EncriptadodeTexto**! Si tienes preguntas o sugerencias, no dudes en ponerte en contacto con nosotros. ¡Tu seguridad es nuestra prioridad!
+
+## 📸 Imágenes del Aplicativo
+### Version Móviles
+![app-movil](https://github.com/user-attachments/assets/a4e6b7d6-4967-41bb-814f-7697e098f9ec)
+
+### Version Escritorio
+![app-webs](https://github.com/user-attachments/assets/36ac6e29-5ef6-4f61-9c2d-fde0c2e4805a)
+
+
